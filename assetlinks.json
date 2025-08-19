@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.darkpurpleof.darkpurpleofswebsite",
+      "sha256_cert_fingerprints": [
+        "FB:98:00:22:A3:7B:7A:05:0D:45:74:2C:31:8E:ED:0C:C7:A9:46:4A:30:6E:2B:B7:84:3A:CC:3E:05:25:1C:13"
+      ]
+    }
+  }
+]
